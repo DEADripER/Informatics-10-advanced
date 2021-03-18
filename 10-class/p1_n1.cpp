@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
   int age;
-  cin>>age;
-  cout<<age+2;
+  cout << "Enter the age: ";
+  cin >> age;
+  cout << endl << "Age 2 years ago: " << age + 2;
 }
