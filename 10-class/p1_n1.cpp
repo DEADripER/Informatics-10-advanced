@@ -7,5 +7,5 @@ int main()
   int age;
   cout << "Enter the age: ";
   cin >> age;
-  cout << endl << "Age 2 years ago: " << age + 2;
+  cout << "Age 2 years ago: " << age + 2;
 }
